@@ -1,0 +1,8 @@
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\obj\Debug\PokemonList.csprojResolveAssemblyReference.cache
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\bin\Debug\Pokemon.exe.config
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\bin\Debug\Pokemon.exe
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\bin\Debug\Pokemon.pdb
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\bin\Debug\PokemonLibrary.dll
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\bin\Debug\PokemonLibrary.pdb
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\obj\Debug\Pokemon.exe
+D:\C#283_work\CS283-Homework1\Pokemon_Homework\Pokemon\obj\Debug\Pokemon.pdb
